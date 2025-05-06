@@ -80,3 +80,5 @@ Abdulaziz Ahmed Qaid
 📧 alqaid4131226@gmail.com
 💼 https://github.com/azoozahmed
 =======
+
+https://abdulaziz.lovestoblog.com/images/res1.png
