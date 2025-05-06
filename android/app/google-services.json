@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978605004009",
+    "project_id": "foodapp-8750e",
+    "storage_bucket": "foodapp-8750e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978605004009:android:5765d7e2d97b0846a94c78",
+        "android_client_info": {
+          "package_name": "com.example.wesh_nakil5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFcrQf6l_6i0tMrfds_abKbKKTGJCDjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
