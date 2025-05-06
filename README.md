@@ -3,7 +3,7 @@
 
 
 A social platform for food enthusiasts to discover meal inspiration, share dining experiences, and redeem restaurant rewards.
-
+Here you can find some layout screenshots: https://abdulaziz.lovestoblog.com/my_projects.html?project=2
 
 
 ## Table of Contents
@@ -81,4 +81,3 @@ Abdulaziz Ahmed Qaid
 💼 https://github.com/azoozahmed
 =======
 
-https://abdulaziz.lovestoblog.com/images/res1.png
