@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
               );
             }
             return MaterialApp(
-                title: "Wesh nakil",
+                title: "TasteJoy",
                 theme: ThemeData(
                   primarySwatch: Colors.orange,
                 ),
